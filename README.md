@@ -1,5 +1,3 @@
-* [Class 1: Review of computer architecture and C language fundamental features](Product-College-Courses.github.io/IOT1-C-CPlusPlus-And-Devices/class1)
-
 # Course Description/Overview 
 
 The C and C++ programming languages are THE core languages of the computer industry and are used to write all operating systems, interpreters and compilers and other performance critical software like web servers, browsers, networking devices, device drivers, game engines and embedded real-time devices.
