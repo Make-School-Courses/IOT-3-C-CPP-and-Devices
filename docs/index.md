@@ -130,10 +130,11 @@ To pass this class:
 
 - C Coding Standards [https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html]()
 - The C Programming Language  [https://en.wikipedia.org/wiki/The_C_Programming_Language]()
-- C++ resource  [https://en.wikibooks.org/wiki/C%2B%2B_Programming]()
 - Online C playground  [https://repl.it/site/languages/c]()
-- Path finding AI algorithms  [https://en.wikipedia.org/wiki/A*_search_algorithm]()
 - Arduino hardware and IDE simulator  [https://circuits.io/]()
+- Circular Queue simulator [https://www.cs.usfca.edu/~galles/JavascriptVisual/QueueArray.html]()
+- Path finding AI algorithms  [https://en.wikipedia.org/wiki/A*_search_algorithm]()
+- C++ resource  [https://en.wikibooks.org/wiki/C%2B%2B_Programming]()
 
 ### [Index of Classes](ClassIndex.md)
 
